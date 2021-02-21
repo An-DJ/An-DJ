@@ -1,5 +1,5 @@
 ### Hi there :palm_tree: 
-u can call me dj :musical_note: :stuck_out_tongue_winking_eye: love compiler and database:whale2:
+u can call me dj :musical_note: love `compiler` and `database`
 
 <!--
 **An-DJ/An-DJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
