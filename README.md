@@ -4,10 +4,13 @@
 {
     "Page": "https://an-dj.github.io/",
     "Good at": [
-        "Service Development",
-        "Cloud Native Observability"
+        "MicroServices",
+        "Observability"
     ],
-    "Love": ["Compiler", "Database"]
+    "Love": [
+        "Compiler",
+        "Database"
+    ]
 }
 ```
 
